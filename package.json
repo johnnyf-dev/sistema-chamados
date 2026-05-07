@@ -1,0 +1,27 @@
+{
+  "name": "sistema-chamados",
+  "version": "1.0.0",
+  "description": "Aplicação de gerenciamento de chamados internos.  \r Este projeto faz parte de um teste técnico e tem como objetivo entregar um MVP funcional com cadastro de usuários, abertura e aprovação de chamados, notificações e relatórios básicos.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@eslint/css": "^1.2.0",
+    "@eslint/js": "^10.0.1",
+    "@eslint/json": "^1.2.0",
+    "@eslint/markdown": "^8.0.1",
+    "eslint": "^10.3.0",
+    "globals": "^17.6.0",
+    "nodemon": "^3.1.14"
+  }
+}
