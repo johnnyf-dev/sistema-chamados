@@ -15,7 +15,7 @@ Este projeto faz parte de um teste técnico e tem como objetivo entregar um MVP 
 - O projeto utiliza ESLint configurado para Node (backend) e Browser (frontend),
 garantindo padronização e qualidade em ambos os ambientes.
 
-## 📌 Histórico de Commits
+## Histórico de Commits
 
 Este projeto segue uma estratégia de commits granulares e organizados, para facilitar a compreensão de novos programadores e demonstrar maturidade técnica.
 
